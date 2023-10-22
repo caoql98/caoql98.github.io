@@ -18,10 +18,10 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Computer Vision:** Image Segmentation Object Detection, and Classification
+- **Few-shot Learning:** Machine Learning with limited data.
+- **Remote Sensing Image Process:** Process remotes sensing images with artificial intelligence
+- **AI4S:** AI for Science
 
 
 ## Awards
