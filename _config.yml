@@ -1,18 +1,18 @@
-url: "hanchaozhang.xyz "
-# baseurl: /Hanchao-Zhang.github.io
+url: "qinglongcao.xyz "
+# baseurl: /Qinglong-Cao.github.io
 # Basic Information 
-title: Hanchao Zhang
+title: Qinglong Cao
 # subtitle:
 position: Ph.D. Candidate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
+#subposition_link: https://nyu-medicine-cssa.github.io
+affiliation: Shanghai Jiao Tong University; Eastern Institute of Technology, Ningbo
+subaffiliation: MoE Key Lab of Artificial Intelligence, AI Institute
+affiliation_link: https://ai.sjtu.edu.cn/
 subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+email: caoql2022@sjtu.edu.cn
+address: 800 Dongchuan RD. Minhang District, Shanghai, China
+#address_link: https://www.sjtu.edu.cn/
 
 
 
@@ -24,11 +24,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+google_scholar: https://scholar.google.com/citations?user=9IYadjMAAAAJ&hl=zh-CN
+#cv_link: assets/files/HanchaoZhangCV.pdf
+github_link: https://github.com/caoql98
+#linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
+#twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
