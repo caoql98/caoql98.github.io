@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm an AI Ph.D. candidate in the joint program between <a href="https://www.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University</a> and <a href="https://www.eitech.edu.cn/" target="_blank"> Eastern Institute of Technology, Ningbo</a>. I am supervised by  Prof.<a href="https://www.eias.ac.cn/?tid=31&p=teacher" target="_blank"> Yuntian Chen </a> (belonging to the team of Prof.<a href="https://www.eias.ac.cn/?tid=63&p=teacher" target="_blank"> Dongxiao Zhang </a>) and Prof.<a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank"> Xiaokang Yang </a>， and I also work closely with  Prof.<a href="https://vision.sjtu.edu.cn/" target="_blank"> Chao Ma </a>.
+I'm an AI Ph.D. candidate in the joint program between <a href="https://www.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University</a> and <a href="https://www.eitech.edu.cn/" target="_blank"> Eastern Institute of Technology, Ningbo</a>. I am supervised by  Prof.<a href="https://www.eias.ac.cn/?tid=31&p=teacher" target="_blank"> Yuntian Chen </a> (belonging to the team of Prof.<a href="https://www.eias.ac.cn/?tid=63&p=teacher" target="_blank"> Dongxiao Zhang </a>) and Prof.<a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank"> Xiaokang Yang </a>, and I also work closely with  Prof.<a href="https://vision.sjtu.edu.cn/" target="_blank"> Chao Ma </a>.
 
 Prior to that, I  received my B.E. and M.S. degrees from <a href="https://www.nwpu.edu.cn/" target="_blank"> Northwestern Polytechnical University</a> respectively in 2019 and 2022, under the supervision of Pro.<a href="https://scholar.google.ae/citations?user=xrqsoesAAAAJ&hl=zh-CN" target="_blank"> Junwei Han </a>.  In the winter of 2019, I am honored to become a research intern of MIT and attend a research of painting classification.
 I have broad research interests in few-shot learning, including few-shot classification, few-shot segmentation, and prompt learning.  My research mainly involves computer vision tasks like segmentation, classification, and detection, remote sensing image processing, and AI for science.  
@@ -31,11 +31,11 @@ Bachelor in Automation, Sept. 2015 - Jun. 2019
 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %} 
 
-{% include_relative _includes/projects.md %}
+<!--{% include_relative _includes/projects.md %} -->
 
-{% include_relative _includes/talks.md %}
+<!--{% include_relative _includes/talks.md %}-->
 
 
 
