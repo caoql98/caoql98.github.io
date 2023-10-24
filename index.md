@@ -11,12 +11,15 @@ I have broad research interests in few-shot learning, including few-shot classif
 
 ## Background
 **Shanghai Jiao Tong University & Eastern Institute of Technology, Ningbo**, Shanghai/Ningbo, China
+
 PhD in Computer Science, Sept. 2022 - Present
 
 **Northwestern Polytechnical University**, Xi'an, China
+
 Master in Pattern Recognition and Intelligent System, Sept. 2019 - Mar. 2022
 
 **Northwestern Polytechnical University**, Xi'an, China
+
 Bachelor in Automation, Sept. 2015 - Jun. 2019
 
 ## Research Interests
