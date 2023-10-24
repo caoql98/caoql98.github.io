@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/BBD.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TCVST</abbr>
   </div>
@@ -26,7 +26,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PDPG.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arxiv</abbr>
   </div>
@@ -46,7 +46,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/IQA.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TNNLS</abbr>
   </div>
@@ -65,7 +65,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/NETRNet.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
@@ -86,7 +86,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/SDM1.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TGRS</abbr>
   </div>
