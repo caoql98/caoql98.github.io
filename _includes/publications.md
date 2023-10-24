@@ -7,6 +7,46 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+    <img src="assets/img/BBD.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCVST</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10287374">Break the Bias: Delving Semantic Transform Invariance for Few-Shot Segmentation</a></div>
+    <div class="author"><strong>Qinglong Cao</strong>, Yuntian Chen, Chao Ma, Xiaokang Yang</div>
+    <div class="periodical"><em> IEEE Transactions on Circuits and Systems for Video Technology  <strong>(TCVST)</strong>, October. 2023.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10287374" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/caoql98/BBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
+    <img src="assets/img/PDPG.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arxiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2211.15467">Progressively Dual Prior Guided Few-shot Semantic Segmentation</a></div>
+    <div class="author"><strong>Qinglong Cao</strong>, Yuntian Chen, Xiwen Yao, Junwei Han</div>
+    <div class="periodical"><em> arXiv, November. 2022.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2211.15467.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="https://github.com/caoql98/progressively-dual-prior-guided-few-shot-semantic-segmentation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 20px;padding-left: 20px;">
     <img src="assets/img/IQA.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TNNLS</abbr>
   </div>
