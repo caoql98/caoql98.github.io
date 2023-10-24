@@ -9,7 +9,15 @@ I'm an AI Ph.D. candidate in the joint program between <a href="https://www.sjtu
 Prior to that, I  received my B.E. and M.S. degrees from <a href="https://www.nwpu.edu.cn/" target="_blank"> Northwestern Polytechnical University</a> respectively in 2019 and 2022, under the supervision of Pro.<a href="https://scholar.google.ae/citations?user=xrqsoesAAAAJ&hl=zh-CN" target="_blank"> Junwei Han </a>.  In the winter of 2019, I am honored to become a research intern of MIT and attend a research of painting classification.
 I have broad research interests in few-shot learning, including few-shot classification, few-shot segmentation, and prompt learning.  My research mainly involves computer vision tasks like segmentation, classification, and detection, remote sensing image processing, and AI for science.  
 
-## Background.
+## Background
+**Shanghai Jiao Tong University & Eastern Institute of Technology, Ningbo**, Shanghai/Ningbo, China
+PhD in Computer Science, Sept. 2022 - Present
+
+**Northwestern Polytechnical University**, Xi'an, China
+Master in Pattern Recognition and Intelligent System, Sept. 2019 - Mar. 2022
+
+**Northwestern Polytechnical University**, Xi'an, China
+Bachelor in Automation, Sept. 2015 - Jun. 2019
 
 ## Research Interests
 - **Computer Vision:** Image Segmentation Object Detection, and Classification
@@ -18,8 +26,6 @@ I have broad research interests in few-shot learning, including few-shot classif
 - **AI4S:** AI for Science
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 
 
 <!-- {% include_relative _includes/publications.md %} -->
