@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10339376">Few-Shot Rotation-Invariant Aerial Image Semantic Segmentation</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Yuntian Chen, Chao Ma, Xiaokang Yang</div>
-    <div class="periodical"><em> IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, October. 2023.</em></div>
+    <div class="periodical"><em> IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, December. 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10339376" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/FRINet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
