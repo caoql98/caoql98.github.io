@@ -5,6 +5,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</autocolor></a></li>
   <li><a href="http://iccv2023.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV)</autocolor></a></li>
+  <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV)</autocolor></a></li>
   <li><a href="https://www.2023.ieeeicme.org//"><autocolor> IEEE International Conference on Multimedia and Expo (ICME)</autocolor></a></li>
 </ul>
 
