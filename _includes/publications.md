@@ -40,7 +40,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2310.07730">Domain-Controlled Prompt Learning</a></div>
+    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27853">Domain-Controlled Prompt Learning</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Zhengqin Xu, Yuntian Chen, Chao Ma, Xiaokang Yang</div>
     <div class="periodical"><em> Association for the Advancement of Artificial Intelligence <strong>(AAAI2024)</strong>.</em></div>
     <div class="links">
