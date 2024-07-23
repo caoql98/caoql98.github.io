@@ -23,7 +23,7 @@ Bachelor in Automation, Sept. 2015 - Jun. 2019
 
 ## Research Interests
 - **Computer Vision:** Image Segmentation, Object Detection, and Classification
-- **Few-shot Learning:** Machine Learning with Limited Data.
+- **Few-shot Learning & Prompt Learning:** Machine Learning with Limited Data.
 - **Remote Sensing Image Process:** Process Remotes Sensing Images with Artificial Intelligence
 - **AI4S:** AI for Science
 
