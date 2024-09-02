@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2401.15913">Vision-Informed Flow Field Super-Resolution with Quaternion Spatial Modeling and Dynamic Fluid Convolution</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Yuntian Chen, Ding Wang, Zhengqin Xu, Chao Ma, Xiaokang Yang, Shiyi Chen</div>
-    <div class="periodical"><em> Physics of Fluids <strong>(PoF)</strong>.</em></div>
+    <div class="periodical"><em> Physics of Fluids <strong>(POF)</strong>.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2401.15913" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/VIFS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
