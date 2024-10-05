@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2401.15913">Vision-Informed Flow Field Super-Resolution with Quaternion Spatial Modeling and Dynamic Fluid Convolution</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Yuntian Chen, Ding Wang, Zhengqin Xu, Chao Ma, Xiaokang Yang, Shiyi Chen</div>
-    <div class="periodical"><em> Physics of Fluids <strong>(POF)</strong>.</em></div>
+    <div class="periodical"><em> Physics of Fluids <strong>(POF)</strong>, September. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2401.15913" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/VIFS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -58,7 +58,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Domain_Prompt_Learning_with_Quaternion_Networks_CVPR_2024_paper.pdf">Domain Prompt Learning with Quaternion Networks</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Zhengqin Xu, Yuntian Chen, Chao Ma, Xiaokang Yang</div>
-    <div class="periodical"><em> Conference on Computer Vision and Pattern Recognition <strong>(CVPR2024)</strong>.</em></div>
+    <div class="periodical"><em> Conference on Computer Vision and Pattern Recognition <strong>(CVPR2024)</strong>, June. 2024.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Domain_Prompt_Learning_with_Quaternion_Networks_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/DPLQ" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -82,7 +82,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27853">Domain-Controlled Prompt Learning</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Zhengqin Xu, Yuntian Chen, Chao Ma, Xiaokang Yang</div>
-    <div class="periodical"><em> Association for the Advancement of Artificial Intelligence <strong>(AAAI2024)</strong>.</em></div>
+    <div class="periodical"><em> Association for the Advancement of Artificial Intelligence <strong>(AAAI2024)</strong>, February. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2310.07730" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/DCPL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
