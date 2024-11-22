@@ -9,6 +9,8 @@
   <li><a href="https://www.2023.ieeeicme.org//"><autocolor> IEEE International Conference on Multimedia and Expo (ICME)</autocolor></a></li>
   <li><a href="https://aaai.org//"><autocolor> Association for the Advancement of Artificial Intelligence (AAAI)</autocolor></a></li>
   <li><a href="https://iclr.cc//"><autocolor>  International Conference on Learning Representations (ICLR)</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>   Annual Conference on Neural Information Processing Systems (NeurIPS)</autocolor></a></li>
+  <li><a href="https://virtual.aistats.org/"><autocolor>  International Conference on Artificial Intelligence and Statistics (AISTATS)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -16,6 +18,7 @@
 <ul style="margin:0 0 20px;">
   <li> <a href="https://www.sciencedirect.com/journal/image-and-vision-computing"> Image and Vision Computing </a> </li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"> IEEE Transactions on Circuits and Systems for Video Technology </a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742"> IEEE Wireless Communications </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36"> IEEE Transactions on Geoscience and Remote Sensing </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443"> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </a></li>
 </ul>
