@@ -15,7 +15,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2412.09328">Auto-Regressive Moving Diffusion Models for Time Series Forecasting</a></div>
     <div class="author">Jiaxin Gao, <strong>Qinglong Cao</strong>(Co-first Author), Yuntian Chen</div>
-    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI2025)</strong> Febuary. 2025.</em></div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI2025)</strong> February. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2412.09328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/daxin007/ARMD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -79,7 +79,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Domain_Prompt_Learning_with_Quaternion_Networks_CVPR_2024_paper.pdf">Domain Prompt Learning with Quaternion Networks</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Zhengqin Xu, Yuntian Chen, Chao Ma, Xiaokang Yang</div>
-    <div class="periodical"><em> Conference on Computer Vision and Pattern Recognition <strong>(CVPR2024)</strong>, June. 2024.</em></div>
+    <div class="periodical"><em> IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR2024)</strong>, June. 2024.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Domain_Prompt_Learning_with_Quaternion_Networks_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/DPLQ" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -206,7 +206,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Learning_Non-Target_Knowledge_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.html">Learning Non-target Knowledge for Few-shot Semantic Segmentation</a></div>
     <div class="author">Yuanwei Liu, Nian Liu, <strong>Qinglong Cao</strong>, Xiwen Yao, Junwei Han, Ling Shao</div>
-    <div class="periodical"><em>Computer Vision and Pattern Recognition (CVPR 2022)  </em></div>
+    <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)  </em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_Non-Target_Knowledge_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/LIUYUANWEI98/NERTNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
