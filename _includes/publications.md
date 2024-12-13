@@ -9,13 +9,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/VIFS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">POF</abbr>
+    <abbr class="badge">AAAI2025</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2412.09328">Auto-Regressive Moving Diffusion Models for Time Series Forecasting</a></div>
     <div class="author">Jiaxin Gao, <strong>Qinglong Cao</strong>(Co-first Author), Yuntian Chen</div>
-    <div class="periodical"><em>AAAAI2025<strong>(POF)</strong>, Febuary. 2025.</em></div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI2025)</strong> Febuary. 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2412.09328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/daxin007/ARMD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
