@@ -12,11 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2405.08668">Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research</a></div>
+    <div class="title"><a href="https://www.cell.com/nexus/fulltext/S2950-1601(25)00016-6">Generalized Domain Prompt Learning for Accessible Scientific Vision-Language Models</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Yuntian Chen, Lu Lu, Hao Sun, Zhenzhong Zeng, Xiaokang Yang, Dongxiao Zhang</div>
     <div class="periodical"><em> Nexus, Cell press. </em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2405.08668" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.cell.com/nexus/fulltext/S2950-1601(25)00016-6" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/caoql98/GDPL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
