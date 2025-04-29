@@ -23,6 +23,7 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742"> IEEE Wireless Communications </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36"> IEEE Transactions on Geoscience and Remote Sensing </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443"> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36"> IEEE Transactions on Medical Imaging </a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
