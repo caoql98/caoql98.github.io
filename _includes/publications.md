@@ -23,6 +23,26 @@
 </div>
 </li>
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/RENE.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RENE</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.journals.elsevier.com/renewable-energy">OpenWPF: A Cross-Dataset Benchmark for Neural Network-Based Wind Power Forecasting</a></div>
+    <div class="author">Xin Xu, <strong>Qinglong Cao</strong>, Ruizhe Deng, Zhiling Guo, Yuntian Chen, Jinyue Yan</div>
+    <div class="periodical"><em> Renewable Energy<strong>(RENE)</strong>, April. 2025.</em></div>
+    <div class="links">
+      <a href="=https://www.journals.elsevier.com/renewable-energy" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
 <li>
 <div class="pub-row">
 
