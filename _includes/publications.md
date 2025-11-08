@@ -12,7 +12,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10962188">Open-Vocabulary Remote Sensing Image Semantic Segmentation</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2411.11343">Latent Knowledge-Guided Video Diffusion for Scientific Phenomena Generation
+from a Single Initial Frame</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Xirui Li, Ding Wang, Chao Ma, Yuntian Chen, Xiaokang Yang</div>
     <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI2026)</strong>, November. 2025.</em></div>
     <div class="links">
