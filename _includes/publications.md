@@ -7,6 +7,26 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/phenomenon.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10962188">Open-Vocabulary Remote Sensing Image Semantic Segmentation</a></div>
+    <div class="author"><strong>Qinglong Cao</strong>, Xirui Li, Ding Wang, Chao Ma, Yuntian Chen, Xiaokang Yang</div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI2026)</strong>, November. 2025.</em></div>
+    <div class="links">
+      <a href="=https://arxiv.org/abs/2411.11343" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/OVRS.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TGRS</abbr>
   </div>
