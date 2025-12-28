@@ -23,10 +23,10 @@ Master in Pattern Recognition and Intelligent System, Sept. 2019 - Mar. 2022
 Bachelor in Automation, Sept. 2015 - Jun. 2019
 
 ## Research Interests
+- **AI4S:** Deep Learning for Science
+- **Data Limited Learning:** Machine Learning with Limited Data like Few-shot Learning & Prompt Learning
 - **Computer Vision:** Image Segmentation, Object Detection, and Classification
-- **Few-shot Learning & Prompt Learning:** Machine Learning with Limited Data.
-- **Remote Sensing Image Process:** Process Remotes Sensing Images with Artificial Intelligence
-- **AI4S:** AI for Science
+- **Remote Sensing Image Process:** Process Remote Sensing Images with Artificial Intelligence
 
 
 
