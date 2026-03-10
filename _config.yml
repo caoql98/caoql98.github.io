@@ -1,4 +1,4 @@
-url: "qinglongcao.xyz "
+url: "https://qinglongcao.xyz"
 # baseurl: /Qinglong-Cao.github.io
 # Basic Information 
 title: Qinglong Cao
@@ -18,9 +18,9 @@ address: 800 Dongchuan RD. Minhang District, Shanghai, China
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Qinglong Cao, computer vision, few-shot learning, prompt learning, remote sensing, AI for Science, SJTU, PEFT, image segmentation
+description: Qinglong Cao is a Ph.D. candidate at Shanghai Jiao Tong University and Eastern Institute of Technology, Ningbo, working on data-limited visual learning, few-shot segmentation, prompt learning, and AI for Science.
+canonical: https://qinglongcao.xyz
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
