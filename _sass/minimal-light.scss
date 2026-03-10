@@ -341,6 +341,21 @@ h2 {
   font-weight: 500;
   margin: 2px 0px 15px;
   font-size: 157%;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #ece4f5;
+  position: relative;
+}
+
+h2::after {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: #57068c;
+  border-radius: 2px;
 }
 
 @media (prefers-color-scheme: dark) {
