@@ -12,18 +12,22 @@
   <li><a href="https://icml.cc//"><autocolor>  International Conference on Machine Learning (ICML)</autocolor></a></li>
   <li><a href="https://iclr.cc//"><autocolor>  International Conference on Learning Representations (ICLR)</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>   Annual Conference on Neural Information Processing Systems (NeurIPS)</autocolor></a></li>
+  <li><a href="https://2025.acmmm.org/"><autocolor> ACM International Conference on Multimedia (ACM MM)</autocolor></a></li>
   <li><a href="https://virtual.aistats.org/"><autocolor>  International Conference on Artificial Intelligence and Statistics (AISTATS)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li> <a href="https://www.sciencedirect.com/journal/image-and-vision-computing"> Image and Vision Computing </a> </li>
+  <li> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> IEEE Transactions on Image Processing </a> </li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"> IEEE Transactions on Circuits and Systems for Video Technology </a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742"> IEEE Wireless Communications </a></li>
+  <li>IEEE Transactions on Multimedia</li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36"> IEEE Transactions on Geoscience and Remote Sensing </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443"> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36"> IEEE Transactions on Medical Imaging </a></li>
+  <li>ISPRS Journal of Photogrammetry and Remote Sensing</li>
+  <li>Information Fusion</li>
+  <li>Pattern Recognition</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>

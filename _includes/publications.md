@@ -5,6 +5,91 @@
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge badge-journal">PR 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326002864">Dual-perspective Filter Pruning via Diversity and Independence Collaboration</a></div>
+    <div class="author">C. Gao, <strong>Qinglong Cao</strong>, X. Yao, X. Feng, G. Cheng</div>
+    <div class="periodical"><em>Pattern Recognition <strong>(PR)</strong>, 177:113321, 2026.</em></div>
+    <div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326002864" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge badge-journal">ECM:X 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Enhancing Photovoltaic Power Forecasting with Cross-Variable Linear Integrated Enhanced Transformer</div>
+    <div class="author">Jiaxin Gao, <strong>Qinglong Cao</strong>, Yinghao Chu, Dongxiao Zhang, Yuntian Chen</div>
+    <div class="periodical"><em>Energy Conversion and Management: X, 2026.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge badge-tgrs">TGRS 2025</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Leveraging Pretrained Diffusion Model for Semantic 3D Reconstruction from Monocular Remote Sensing Image</div>
+    <div class="author">Xin Xu, Ruizhe Deng, <strong>Qinglong Cao</strong>, Zhiling Guo, Yuntian Chen, Jinyue Yan</div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Sci-PRM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge badge-aaai">KDD 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2606.04579">Sci-PRM: A Tool Aware Process Reward Model for Scientific Reasoning Verification</a></div>
+    <div class="author">Xiangyu Zhao, Hengyuan Zhao, Yiheng Wang, Wanghan Xu, Yuhao Zhou, <strong>Qinglong Cao</strong>, Zhiwang Zhou, Lei Bai, Wenlong Zhang, Xiao-Ming Wu</div>
+    <div class="periodical"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD 2026)</strong>.</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2606.04579" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MoE-AMC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge badge-aaai">ICASSP 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2312.02298">MoE-AMC: Enhancing Automatic Modulation Classification Performance Using Mixture-of-Experts</a></div>
+    <div class="author">J. Gao, <strong>Qinglong Cao</strong>, Y. Chen</div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP 2026)</strong>.</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2312.02298" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Omni-Weather.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge badge-cvpr">ICLR 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/0d094d83efa5ea99f86527ac7207e023-Abstract-Conference.html">Omni-Weather: A Unified Multimodal Model for Weather Radar Understanding and Generation</a></div>
+    <div class="author">Z. Zhou, Y. Pu, X. He, Y. Liu, Y. Chen, J. Gong, <strong>Qinglong Cao</strong>, et al.</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR 2026)</strong>.</em></div>
+    <div class="links"><a href="https://proceedings.iclr.cc/paper_files/paper/2026/file/0d094d83efa5ea99f86527ac7207e023-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/phenomenon.png" class="teaser img-fluid z-depth-1">

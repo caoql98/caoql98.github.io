@@ -4,15 +4,31 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the joint program of <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a> and <a href="https://www.eitech.edu.cn/" target="_blank">Eastern Institute of Technology, Ningbo</a>, advised by Prof. <a href="https://www.eitech.edu.cn/?tid=31&p=teacher" target="_blank">Yuntian Chen</a> (in the group of Prof. <a href="https://www.eitech.edu.cn/?p=teacher&tid=63" target="_blank">Dongxiao Zhang</a>, guided by Prof. <a href="https://www.eitech.edu.cn/?tid=3&p=teacher" target="_blank">Shiyi Chen</a>) and Prof. <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">Xiaokang Yang</a>. I also collaborate closely with Prof. <a href="https://vision.sjtu.edu.cn/" target="_blank">Chao Ma</a>.
+I am a Youth Researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Laboratory</a>. I received my Ph.D. in 2026 through the joint program of <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a> and <a href="https://www.eitech.edu.cn/" target="_blank">Eastern Institute of Technology, Ningbo</a>, advised by Prof. <a href="https://www.eitech.edu.cn/?tid=31&p=teacher" target="_blank">Yuntian Chen</a> (in the group of Prof. <a href="https://www.eitech.edu.cn/?p=teacher&tid=63" target="_blank">Dongxiao Zhang</a>, guided by Prof. <a href="https://www.eitech.edu.cn/?tid=3&p=teacher" target="_blank">Shiyi Chen</a>) and Prof. <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">Xiaokang Yang</a>. I also collaborate closely with Prof. <a href="https://vision.sjtu.edu.cn/" target="_blank">Chao Ma</a>.
 
 I received my B.E. and M.S. degrees from <a href="https://www.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical University</a> in 2019 and 2022, supervised by Prof. <a href="https://scholar.google.ae/citations?user=xrqsoesAAAAJ&hl=zh-CN" target="_blank">Junwei Han</a> and Prof. <a href="https://scholar.google.com/citations?user=XqrlEUoAAAAJ&hl=en" target="_blank">Xiwen Yao</a>.
 
-My research focuses on **data-limited and domain-aware visual learning** — how **prior knowledge**, **task structure**, and **foundation models** can be systematically integrated to build **generalizable and trustworthy vision systems** under limited supervision. I work on **few-shot & open-vocabulary segmentation**, **prompt learning**, and **parameter-efficient fine-tuning (PEFT)**, with applications in **remote sensing**, **medical imaging**, and **AI for Science**.
+My research focuses on **self-evolving AI agents**, **autonomous scientific research**, and **AI for Science**. My earlier work studies **data-limited and domain-aware visual learning** — how **prior knowledge**, **task structure**, and **foundation models** can be systematically integrated to build **generalizable and trustworthy vision systems** under limited supervision. I work on **few-shot & open-vocabulary segmentation**, **prompt learning**, and **parameter-efficient fine-tuning (PEFT)**, with applications in **remote sensing**, **medical imaging**, and **AI for Science**. I am now interested in turning real tasks, environment interaction, and verifiable feedback into capabilities that keep growing.
+
+## Honors and Awards
+
+- **2026** 上海市优秀毕业生
+- **2025** 中国科协青年科技人才培育工程博士生专项计划
+- **2025** 上海交通大学优秀研究生奖学金
+- **2024** 博士研究生国家奖学金
+- **2024** 上海交通大学优秀团员；IJCAI 2024 快速气动阻力预测竞赛优胜者
+- **2023** 上海交通大学三好学生
+- **2022 / 2019** 西北工业大学优秀毕业生
+- **2019–2021** 西北工业大学优秀研究生奖学金
+- **2021** 航天科工“智箭火眼”人工智能挑战赛第二名
+- **2016–2019** 西北工业大学优秀学生奖学金
 
 ## News
 
 <ul class="news-list">
+  <li><span class="news-date">Jun. 2026</span> <em>ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research</em> released on arXiv. <a href="https://arxiv.org/abs/2606.07591" target="_blank">[Paper]</a></li>
+  <li><span class="news-date">Mar. 2026</span> Contributed to <em>Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale</em>. <a href="https://arxiv.org/abs/2603.25040" target="_blank">[Paper]</a></li>
+  <li><span class="news-date">Jan. 2026</span> <em>Learning Domain Knowledge in Multimodal Large Language Models through Reinforcement Fine-Tuning</em> released on arXiv. <a href="https://arxiv.org/abs/2601.16419" target="_blank">[Paper]</a></li>
   <li><span class="news-date">Nov. 2025</span> Paper accepted at <strong>AAAI 2026</strong>: <em>Latent Knowledge-Guided Video Diffusion for Scientific Phenomena Generation from a Single Initial Frame</em>. <a href="https://arxiv.org/abs/2411.11343" target="_blank">[Paper]</a></li>
   <li><span class="news-date">Apr. 2025</span> Paper published in <strong>IEEE TGRS</strong>: <em>Open-Vocabulary Remote Sensing Image Semantic Segmentation</em>. <a href="https://ieeexplore.ieee.org/abstract/document/10962188" target="_blank">[Paper]</a> <a href="https://github.com/caoql98/OVRS" target="_blank">[Code]</a></li>
   <li><span class="news-date">Apr. 2025</span> Paper published in <strong>IEEE TGRS</strong>: <em>HSFormer: Multiscale Hybrid Sparse Transformer for Uncertainty-Aware Cloud and Shadow Removal</em>. <a href="https://ieeexplore.ieee.org/document/10978072" target="_blank">[Paper]</a></li>
@@ -24,6 +40,8 @@ My research focuses on **data-limited and domain-aware visual learning** — how
 
 ## Research Interests
 
+- **Self-Evolving AI Agents:** Learning from tasks, tools, environments, and verifiable feedback
+- **Autonomous Scientific Research:** Agents for literature understanding, experimentation, analysis, and discovery
 - **AI for Science:** Deep learning for scientific discovery and simulation
 - **Data-Limited Learning:** Few-shot learning, prompt learning, and parameter-efficient fine-tuning
 - **Computer Vision:** Image segmentation, object detection, and classification
@@ -45,6 +63,18 @@ My research focuses on **data-limited and domain-aware visual learning** — how
     B.E. in Automation &nbsp;·&nbsp; Sept. 2015 – Jun. 2019
   </li>
 </ul>
+
+## Invited Talks and Presentations
+
+- **2025**, *Domain Prompt Learning*, IJCAI 2025 (Best Paper from Sister Conference Track), Shenzhen, China.
+- **2025**, *Generalized Domain Prompt Learning for Accessible Scientific Vision-Language Models*, CUE 2025, Kitakyushu, Japan.
+- **2025**, *Auto-Regressive Moving Diffusion Models for Time Series Forecasting*, AAAI 2025, Philadelphia, USA.
+- **2024**, *Data-Limited Scientific Visual Learning*, The 13th Ningbo Academic Conference, Ningbo, China.
+- **2024**, *Vision-Informed Flow Field Super-Resolution*, The First National Conference on Intelligent Fluid Mechanics, Xi'an, China.
+- **2024**, *Fast Aerodynamic Drag Prediction with Transformer Solvers*, IJCAI 2024, Jeju, South Korea.
+- **2024**, *Domain Prompt Learning with Quaternion Networks*, CVPR 2024, Seattle, USA.
+- **2024**, *Rock Reconstruction with Deep Generative Networks*, EGU, Vienna, Austria.
+- **2024**, *Domain-Controlled Prompt Learning*, AAAI 2024, Vancouver, Canada.
 
 {% include_relative _includes/publications.md %}
 
