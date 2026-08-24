@@ -12,16 +12,11 @@ My research focuses on **self-evolving AI agents**, **autonomous scientific rese
 
 ## Honors & Awards
 
-<div class="honors-list">
-  <div><span>2026</span>上海市优秀毕业生</div>
-  <div><span>2025</span>中国科协青年科技人才培育工程博士生专项计划；上海交通大学优秀研究生奖学金</div>
-  <div><span>2024</span>博士研究生国家奖学金；上海交通大学优秀团员；IJCAI 2024 快速气动阻力预测竞赛优胜者</div>
-  <div><span>2023</span>上海交通大学三好学生</div>
-  <div><span>2022 / 2019</span>西北工业大学优秀毕业生</div>
-  <div><span>2019–2021</span>西北工业大学优秀研究生奖学金</div>
-  <div><span>2021</span>航天科工“智箭火眼”人工智能挑战赛第二名</div>
-  <div><span>2016–2019</span>西北工业大学优秀学生奖学金</div>
-</div>
+- **2026** · Shanghai Outstanding Graduate
+- **2025** · Young Talent Support Program for Doctoral Students, China Association for Science and Technology (CAST)
+- **2024** · National Scholarship for Doctoral Students
+- **2024** · Award Winner, IJCAI 2024 Fast Aerodynamic Drag Prediction Challenge
+- **2021** · Second Prize, “Intelligent Arrow & Fire Eye” Artificial Intelligence Challenge, CASIC
 
 ## News
 
