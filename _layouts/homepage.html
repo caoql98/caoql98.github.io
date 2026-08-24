@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
 
 <head>
-  <title>{{ site.title }}</title>
+  <base href="{{ site.url | append: '/' }}">
+  <title>{{ page.title | default: site.title }}</title>
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,8 +47,12 @@
       <h3>{{ site.subtitle }}</h3>
       {% endif %}
 
-      {% if site.position %}
-      <position style="font-size:1.10rem;">{{ site.position }}</position>
+      {% assign position = page.position | default: site.position %}
+      {% assign affiliation = page.affiliation | default: site.affiliation %}
+      {% assign affiliation_link = page.affiliation_link | default: site.affiliation_link %}
+      {% assign address = page.address | default: site.address %}
+      {% if position %}
+      <position style="font-size:1.10rem;">{{ position }}</position>
       <br>
       {% endif %}
       {% if site.subposition %}
@@ -62,15 +67,15 @@
       </a>
       <br>
       {% endif %}
-      {% if site.affiliation %}
-      <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank">
-        <autocolor>{{ site.affiliation }}</autocolor>
+      {% if affiliation %}
+      <a href="{{ affiliation_link }}" rel="noopener" target="_blank">
+        <autocolor>{{ affiliation }}</autocolor>
       </a>
       <br>
       {% endif %}
-      {% if site.address %}
+      {% if address %}
       <a href="{{ site.address_link }}" rel="noopener" target="_blank">
-        <h4>{{ site.address }}</h4>
+        <h4>{{ address }}</h4>
       </a>
       {% endif %}
       {% if site.email %}
@@ -114,6 +119,11 @@
         </a>
         {% endif %}
       </div>
+      {% if page.language_switch_url %}
+      <div class="language-switch">
+        <a href="{{ page.language_switch_url | relative_url }}">{{ page.language_switch_label }}</a>
+      </div>
+      {% endif %}
       <br>
 
     </header>

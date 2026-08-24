@@ -1,5 +1,8 @@
 ---
 layout: homepage
+lang: en-US
+language_switch_url: /zh/
+language_switch_label: 中文
 ---
 
 ## About Me

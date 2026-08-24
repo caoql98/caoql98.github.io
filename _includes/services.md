@@ -1,6 +1,6 @@
-## Services
+## {% if page.lang == 'zh-CN' %}学术服务{% else %}Services{% endif %}
 
-<h4 style="margin:0 10px 0;">Conference Reviewers/Program Committee</h4>
+<h4 style="margin:0 10px 0;">{% if page.lang == 'zh-CN' %}会议审稿人／程序委员会{% else %}Conference Reviewers/Program Committee{% endif %}</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</autocolor></a></li>
@@ -16,7 +16,7 @@
   <li><a href="https://virtual.aistats.org/"><autocolor>  International Conference on Artificial Intelligence and Statistics (AISTATS)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">{% if page.lang == 'zh-CN' %}期刊审稿人{% else %}Journal Reviewers{% endif %}</h4>
 
 <ul style="margin:0 0 20px;">
   <li> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> IEEE Transactions on Image Processing </a> </li>
@@ -30,9 +30,9 @@
   <li>Pattern Recognition</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+<h4 style="margin:0 10px 0;">{% if page.lang == 'zh-CN' %}学术会员与活动{% else %}Membership & Activities{% endif %}</h4>
 <ul style="margin:0 0 20px;">
-  <li>Graduate Student Member of IEEE</li>
+  <li>{% if page.lang == 'zh-CN' %}IEEE 研究生成员{% else %}Graduate Student Member of IEEE{% endif %}</li>
 </ul>
 
 <!-- 
