@@ -2,3 +2,24 @@
 ---
 
 @import "minimal-light";
+// Compact, timeline-like styling for the homepage honors block.
+.honors-list {
+  border-left: 1px solid #e5e5e5;
+  color: #595959;
+  font-family: Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0 0 22px;
+  padding-left: 16px;
+
+  div { margin: 3px 0; }
+
+  span {
+    color: #777;
+    display: inline-block;
+    font-family: monospace;
+    font-size: 12px;
+    margin-right: 10px;
+    min-width: 74px;
+  }
+}

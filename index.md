@@ -10,18 +10,18 @@ I received my B.E. and M.S. degrees from <a href="https://www.nwpu.edu.cn/" targ
 
 My research focuses on **self-evolving AI agents**, **autonomous scientific research**, and **AI for Science**. My earlier work studies **data-limited and domain-aware visual learning** — how **prior knowledge**, **task structure**, and **foundation models** can be systematically integrated to build **generalizable and trustworthy vision systems** under limited supervision. I work on **few-shot & open-vocabulary segmentation**, **prompt learning**, and **parameter-efficient fine-tuning (PEFT)**, with applications in **remote sensing**, **medical imaging**, and **AI for Science**. I am now interested in turning real tasks, environment interaction, and verifiable feedback into capabilities that keep growing.
 
-## Honors and Awards
+## Honors & Awards
 
-- **2026** 上海市优秀毕业生
-- **2025** 中国科协青年科技人才培育工程博士生专项计划
-- **2025** 上海交通大学优秀研究生奖学金
-- **2024** 博士研究生国家奖学金
-- **2024** 上海交通大学优秀团员；IJCAI 2024 快速气动阻力预测竞赛优胜者
-- **2023** 上海交通大学三好学生
-- **2022 / 2019** 西北工业大学优秀毕业生
-- **2019–2021** 西北工业大学优秀研究生奖学金
-- **2021** 航天科工“智箭火眼”人工智能挑战赛第二名
-- **2016–2019** 西北工业大学优秀学生奖学金
+<div class="honors-list">
+  <div><span>2026</span>上海市优秀毕业生</div>
+  <div><span>2025</span>中国科协青年科技人才培育工程博士生专项计划；上海交通大学优秀研究生奖学金</div>
+  <div><span>2024</span>博士研究生国家奖学金；上海交通大学优秀团员；IJCAI 2024 快速气动阻力预测竞赛优胜者</div>
+  <div><span>2023</span>上海交通大学三好学生</div>
+  <div><span>2022 / 2019</span>西北工业大学优秀毕业生</div>
+  <div><span>2019–2021</span>西北工业大学优秀研究生奖学金</div>
+  <div><span>2021</span>航天科工“智箭火眼”人工智能挑战赛第二名</div>
+  <div><span>2016–2019</span>西北工业大学优秀学生奖学金</div>
+</div>
 
 ## News
 
