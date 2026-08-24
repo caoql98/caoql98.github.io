@@ -47,7 +47,7 @@ My research focuses on **self-evolving AI agents**, **autonomous scientific rese
 <ul>
   <li>
     <strong>Shanghai Jiao Tong University &amp; Eastern Institute of Technology, Ningbo</strong> &nbsp;·&nbsp; Shanghai / Ningbo, China<br>
-    Ph.D. in Computer Science &nbsp;·&nbsp; Sept. 2022 – Present
+    Ph.D. in Computer Science &nbsp;·&nbsp; Sept. 2022 – Jun. 2026
   </li>
   <li>
     <strong>Northwestern Polytechnical University</strong> &nbsp;·&nbsp; Xi'an, China<br>
