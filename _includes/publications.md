@@ -6,6 +6,21 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Sci-PRM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge badge-aaai">KDD 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2606.04579">Sci-PRM: A Tool Aware Process Reward Model for Scientific Reasoning Verification</a></div>
+    <div class="author">Xiangyu Zhao, Hengyuan Zhao, Yiheng Wang, Wanghan Xu, Yuhao Zhou, <strong>Qinglong Cao</strong>, Zhiwang Zhou, Lei Bai, Wenlong Zhang, Xiao-Ming Wu</div>
+    <div class="periodical"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD 2026)</strong>.</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2606.04579" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/DPFP.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge badge-journal">PR 2026</abbr>
   </div>
@@ -28,34 +43,6 @@
     <div class="title">Enhancing Photovoltaic Power Forecasting with Cross-Variable Linear Integrated Enhanced Transformer</div>
     <div class="author">Jiaxin Gao, <strong>Qinglong Cao</strong>, Yinghao Chu, Dongxiao Zhang, Yuntian Chen</div>
     <div class="periodical"><em>Energy Conversion and Management: X, 2026.</em></div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <abbr class="badge badge-tgrs">TGRS 2025</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Leveraging Pretrained Diffusion Model for Semantic 3D Reconstruction from Monocular Remote Sensing Image</div>
-    <div class="author">Xin Xu, Ruizhe Deng, <strong>Qinglong Cao</strong>, Zhiling Guo, Yuntian Chen, Jinyue Yan</div>
-    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2025.</em></div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Sci-PRM.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge badge-aaai">KDD 2026</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2606.04579">Sci-PRM: A Tool Aware Process Reward Model for Scientific Reasoning Verification</a></div>
-    <div class="author">Xiangyu Zhao, Hengyuan Zhao, Yiheng Wang, Wanghan Xu, Yuhao Zhou, <strong>Qinglong Cao</strong>, Zhiwang Zhou, Lei Bai, Wenlong Zhang, Xiao-Ming Wu</div>
-    <div class="periodical"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD 2026)</strong>.</em></div>
-    <div class="links"><a href="https://arxiv.org/abs/2606.04579" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
@@ -102,10 +89,23 @@
     <div class="title"><a href="https://arxiv.org/abs/2411.11343">Latent Knowledge-Guided Video Diffusion for Scientific Phenomena Generation
 from a Single Initial Frame</a></div>
     <div class="author"><strong>Qinglong Cao</strong>, Xirui Li, Ding Wang, Chao Ma, Yuntian Chen, Xiaokang Yang</div>
-    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI 2026)</strong>, November 2025.</em></div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI 2026)</strong>, February 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2411.11343" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <abbr class="badge badge-tgrs">TGRS 2026</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Leveraging Pretrained Diffusion Model for Semantic 3D Reconstruction from Monocular Remote Sensing Image</div>
+    <div class="author">Xin Xu, Ruizhe Deng, <strong>Qinglong Cao</strong>, Zhiling Guo, Yuntian Chen, Jinyue Yan</div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 64:5603516, January 2026.</em></div>
   </div>
 </div>
 </li>
