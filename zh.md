@@ -13,9 +13,9 @@ permalink: /zh/
 
 ## 关于我
 
-我目前是<a href="https://www.shlab.org.cn/" target="_blank">上海人工智能实验室</a>青年研究员。2026 年，我通过<a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a>与<a href="https://www.eitech.edu.cn/" target="_blank">宁波东方理工大学（暂名）</a>联合培养项目获得博士学位。博士期间，我师从<a href="https://www.eitech.edu.cn/?tid=31&p=teacher" target="_blank">陈云霁教授</a>（张东晓教授团队，陈十一教授指导）和<a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">杨小康教授</a>，并与<a href="https://vision.sjtu.edu.cn/" target="_blank">马超教授</a>保持紧密合作。
+我目前是<a href="https://www.shlab.org.cn/" target="_blank">上海人工智能实验室</a>青年研究员。2026 年，我通过<a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a>与<a href="https://www.eitech.edu.cn/" target="_blank">宁波东方理工大学（暂名）</a>联合培养项目获得博士学位。博士期间，我师从<a href="https://www.eitech.edu.cn/?tid=31&p=teacher" target="_blank">陈云天教授</a>（张东晓教授团队，陈十一教授指导）和<a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">杨小康教授</a>，并与<a href="https://vision.sjtu.edu.cn/" target="_blank">马超教授</a>保持紧密合作。
 
-我于 2019 年和 2022 年分别获得<a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a>学士、硕士学位，导师为<a href="https://scholar.google.ae/citations?user=xrqsoesAAAAJ&hl=zh-CN" target="_blank">韩军伟教授</a>和<a href="https://scholar.google.com/citations?user=XqrlEUoAAAAJ&hl=en" target="_blank">姚希文教授</a>。
+我于 2019 年和 2022 年分别获得<a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a>学士、硕士学位，导师为<a href="https://scholar.google.ae/citations?user=xrqsoesAAAAJ&hl=zh-CN" target="_blank">韩军伟教授</a>和<a href="https://scholar.google.com/citations?user=XqrlEUoAAAAJ&hl=en" target="_blank">姚西文教授</a>。
 
 我的研究聚焦于**自进化 AI 智能体**、**自主科学研究**与**AI for Science**。早期工作主要研究**数据受限、领域感知的视觉学习**：如何将**先验知识**、**任务结构**与**基础模型**系统性地融合，在有限监督下构建可泛化、可信赖的视觉系统。我关注**小样本与开放词汇分割**、**提示学习**和**参数高效微调（PEFT）**，并将其应用于**遥感**、**医学影像**和**AI for Science**。目前，我希望将真实任务、环境交互和可验证反馈转化为能持续成长的能力。
 

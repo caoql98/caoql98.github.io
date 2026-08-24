@@ -31,6 +31,11 @@
 </head>
 
 <body>
+  {% if page.language_switch_url %}
+  <nav class="language-switch" aria-label="Language selector">
+    <a href="{{ page.language_switch_url | relative_url }}">{{ page.language_switch_label }}</a>
+  </nav>
+  {% endif %}
   <div class="wrapper">
     <header>
 
@@ -95,6 +100,12 @@
         </a>
         {% endif %}
 
+        {% if site.openreview %}
+        <a style="margin: 0 5px 0 0" href="{{ site.openreview }}" title="OpenReview" aria-label="OpenReview">
+          <i class="ai ai-open-access" style="font-size:1.2rem"></i>
+        </a>
+        {% endif %}
+
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
@@ -119,11 +130,6 @@
         </a>
         {% endif %}
       </div>
-      {% if page.language_switch_url %}
-      <div class="language-switch">
-        <a href="{{ page.language_switch_url | relative_url }}">{{ page.language_switch_label }}</a>
-      </div>
-      {% endif %}
       <br>
 
     </header>
