@@ -3,13 +3,11 @@ url: "https://qinglongcao.xyz"
 # Basic Information 
 title: Qinglong Cao
 # subtitle:
-position: Ph.D. Candidate
+position: Youth Researcher
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 #subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Shanghai Jiao Tong University; Eastern Institute of Technology, Ningbo
-subaffiliation: MoE Key Lab of Artificial Intelligence, AI Institute
-affiliation_link: https://www.sjtu.edu.cn/
-subaffiliation_link: https://ai.sjtu.edu.cn/
+affiliation: Shanghai AI Laboratory
+affiliation_link: https://www.shlab.org.cn/
 email: caoql2022@sjtu.edu.cn
 address: 800 Dongchuan RD. Minhang District, Shanghai, China
 #address_link: https://www.sjtu.edu.cn/
@@ -19,7 +17,7 @@ address: 800 Dongchuan RD. Minhang District, Shanghai, China
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Qinglong Cao, computer vision, few-shot learning, prompt learning, remote sensing, AI for Science, SJTU, PEFT, image segmentation
-description: Qinglong Cao is a Ph.D. candidate at Shanghai Jiao Tong University and Eastern Institute of Technology, Ningbo, working on data-limited visual learning, few-shot segmentation, prompt learning, and AI for Science.
+description: Qinglong Cao is a Youth Researcher at Shanghai AI Laboratory, working on multimodal learning, AI for Science, and autonomous scientific discovery.
 canonical: https://qinglongcao.xyz
 
 # Links 
